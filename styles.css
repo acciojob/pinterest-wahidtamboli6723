@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:left;
+	 
+}
+.img{
+	object-fit:cover;
+	width:200px;
+	height:100px;
+}
+.btn{
+	psdding:10px;
+	
+	background-color:red;
+	color:white;
+}
